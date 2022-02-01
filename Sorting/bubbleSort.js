@@ -23,4 +23,6 @@ const bubbleSort = (arr) => {
     return arr;
 }
 
+// time complexity : O[n2];
+
 console.log(bubbleSort([37,45,29,8]));
